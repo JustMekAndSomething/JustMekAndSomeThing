@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KittiphopThongson but you can call me Mek!
 ==================================================================================================================================================================
 
-Student
--------
+Student Beginner In Coding
+--------------------------
 
 I've been learned code 1 year ago, But I didn't study for long. I started with HTML and then I quit.. , But I'm back right now and started learning about C
 
