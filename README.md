@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student, Beginner In Coding, 2008 
 ---------------------------
 
-I've been learned code 1 year ago, But I didn't study for long. I started with HTML and then I quit.. , But I'm back right now and started learning about C
+I've been learned code on 2022, But I didn't study for long. I started with HTML and then I quit.. , But I'm back right now and started learning about C
 
 * 🌍  I'm based in Khon Kaen, Thailand
 
